@@ -1,8 +1,10 @@
 import './App.css'
+import {Route, Routes} from "react-router-dom"
 
 function App() {
 
   return (
+    
     <div>
       <header className='p-4 flex justify-between'>
         <a href="" className='flex items-center gap-1'>
